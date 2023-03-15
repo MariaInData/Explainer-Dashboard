@@ -25,4 +25,6 @@ explAIner dashboard is an interactive machine leanrning library to help professi
 
 # Overall Process
 1. Develop a pitch and flyer to show the that ExplAIner is building trust between data science and business-minded individuals. Most companies need to get all stakeholders on board before adapting a model. ExplAIner helps build confidence.  
-2. Demonstrate how easy and quick ExplAIner dashboard is to deploy.
+2. Demonstrate how easy and quick ExplAIner dashboard is to deploy.  
+ <p align="center"> <img width="1125" alt="image" src="https://user-images.githubusercontent.com/125685678/225203336-c6e8ef51-c462-4737-9e9e-b3901fec18d5.png"> </p>  
+ <p align="center"> A view of the dashboard demo </p>  
